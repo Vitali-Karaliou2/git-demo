@@ -18,3 +18,8 @@ Content to be saved
 New line (Commit 1) 
 -------------------
 Commit 1 to local branch 
+Commit 2 to local branch 
+Commit 3 to local branch 
+Commit 4 to local branch 
+Commit 5 to local branch 
+Commit 6 to local branch 
