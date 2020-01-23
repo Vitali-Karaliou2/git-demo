@@ -16,3 +16,5 @@ Attack!
 Content to be saved
 
 New line (Commit 1) 
+-------------------
+Commit 1 to local branch 
